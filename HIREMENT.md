@@ -62,8 +62,12 @@
   > 객체지향설계 및 개발 능력을 가진 분
 
   - 주요개발스택 :
-  > iOS /
-  > Github / Bitbucket
+  > Android /
+  > Android Annotation / 
+  > Gradle /
+  > Spring Boot /
+  > AngularJS /
+  > MySQL
   
   - 하게 될 일:
   > Playwings iOS Version 개발
