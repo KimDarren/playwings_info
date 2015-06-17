@@ -74,22 +74,22 @@
 
 ##### 주요개발스택 (현재 사용하고 있는 기술 참고용) :
   - 안드로이드
-   > Android /
-   > Android Annotation / 
+  > Android /
+  > Android Annotation / 
   - API Server + CMS
-   > Nginx Reserve Proxy + Apache /
-   > Spring Boot + hibernate /
-   > MySQL /
-   > NoSQL(Data 분석용, 추후 진행 예정) /
-   > AngularJS(web front) /
+  > Nginx Reserve Proxy + Apache /
+  > Spring Boot + hibernate /
+  > MySQL /
+  > NoSQL(Data 분석용, 추후 진행 예정) /
+  > AngularJS(web front) /
   - 프로젝트 관리
-   > Gradle /
-   > Git + GitFlow/
+  > Gradle /
+  > Git + GitFlow/
   - CI
-   > 근 시일 내에 사용 예정.
+  > 근 시일 내에 사용 예정.
   - AWS
-   > 서비스는 모두 AWS에 올려서 사용합니다.
-   > 현재 사용 서비스는 EC2, RDS, Route53을 사용하고 있고, 추후 Auto Scaling, ELB, Dynamo DB, SQS, SNS 등을 사용할 예정입니다.
+  > 서비스는 모두 AWS에 올려서 사용합니다.
+  > 현재 사용 서비스는 EC2, RDS, Route53을 사용하고 있고, 추후 Auto Scaling, ELB, Dynamo DB, SQS, SNS 등을 사용할 예정입니다.
 
 위의 내용에서 마음에 안드시는 부분은 더 나은 방안이 있다면 오셔서 다른 방안으로 변경 가능합니다.
 자세한 내용은 연락 주시면 친절하게 답변해드리겠습니다^^
