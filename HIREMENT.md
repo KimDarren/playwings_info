@@ -75,7 +75,9 @@
 ##### 주요개발스택 (현재 사용하고 있는 기술 참고용) :
   - 안드로이드
   > Android 
+
   > Android Annotation 
+  
   - API Server + CMS
   > Nginx Reserve Proxy + Apache 
   > Spring Boot + hibernate 
