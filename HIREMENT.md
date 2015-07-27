@@ -127,5 +127,4 @@
 혹시 이 외에도 궁금한 점이 있거나, 고민되는 점이 있다면 언제든지 연락 주세요. 
 여러분의 연락 기다리고 있겠습니다 ^^
 
-- [이메일 보내기](mailto:erish2150@fridaynoons.com)
-- [페이스북 메시지](https://www.facebook.com/hosuk0w0)
+- [이메일 보내기](mailto:curtis.oh@yellotravel.com)
