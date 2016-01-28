@@ -62,8 +62,11 @@
   
   - 필요조건 :
   > Spring + JPA 개발 경험
+
   > Linux 사용에 능숙
+  
   > DB Scheme 설계 경험
+  
   > Caching 사용 경험(ex. Redis)
 
 ##### 주요개발스택 (현재 사용하고 있는 기술 참고용) :
