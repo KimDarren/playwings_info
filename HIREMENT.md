@@ -93,7 +93,8 @@
 
   > Git + GitFlow
   
-  - CI
+  > Jenkins(CI)
+  
   - AWS
   > 서비스는 모두 AWS에 올려서 사용합니다.
   > 현재 사용 서비스는 EC2, RDS, Route53, Auto Scaling, ELB, Dynamo DB, SQS, SNS 등을 사용 혹은 도입중입니다.
