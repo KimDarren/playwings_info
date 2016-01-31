@@ -21,7 +21,7 @@
 - 2015년 6월: 옐로트래블 가족 합류
 
 
-옐로트래블은 여행박사, 우리펜션, 한인텔, 제주닷컴, 제주모바일, 위시빈, 티켓매니아, 모지트, 캐빈스토리, 펜션으로튀어라 등 다양한 여행 회사가 모여 아시아 No.1의 IT/모바일 기반 여행 레저그룹을 꿈꾸고 있습니다. [yellotravel.com](http://yellotravel.com/)
+[옐로트래블](http://yellotravel.com/)은 여행박사, 우리펜션, 한인텔, 제주닷컴, 제주모바일, 위시빈, 티켓매니아, 모지트, 캐빈스토리, 펜션으로튀어라 등 다양한 여행 회사가 모여 아시아 No.1의 IT/모바일 기반 여행 레저그룹을 꿈꾸고 있습니다.
 
 위치: [서울 강남구 역삼로 177 방주빌딩 3층](http://dmaps.kr/oska)
 
@@ -57,47 +57,40 @@
 
 ##### Server 개발자
 
-  - 1명
-  > 연봉제 협의(연봉테이블이 존재하나, 개인의 능력에 따라 조정 가능합니다.)
-  
-  - 필요조건 :
-  > Spring + JPA 개발 경험
-
-  > Linux 사용에 능숙
-  
-  > DB Scheme 설계 경험
-  
-  > Caching 사용 경험(ex. Redis)
+ - 1명
+  - 연봉제 협의(연봉테이블이 존재하나, 개인의 능력에 따라 조정 가능합니다.)
+ 
+ - 필요조건
+  1. Spring + JPA 개발 경험
+  2. Linux 사용에 능숙
+  3. DB Scheme 설계 경험
+  4. Caching 사용 경험(ex. Redis)
 
 ##### 주요개발스택 (현재 사용하고 있는 기술 참고용) :
   - 안드로이드
-  > Android 
-
-  > Android Annotation 
-  
+   - Android 
+   - Android Annotation 
+  - iOS
+   - Objective-C
+   - Swift
+   - Auto layout ([Masonry](https://github.com/SnapKit/Masonry))
+   - [Cocoapods](http://cocoapods.org)
+   - [Fabric](https://fabric.io)
   - API Server + CMS
-  > Nginx Reserve Proxy + Tomcat 
-
-  > Spring Boot + hibernate 
-  
-  > MySQL 
-  
-  > Redis
-  
-  > NoSQL(Data 분석용) 
-  
-  > AngularJS(web front) 
-  
+   - Nginx Reserve Proxy + Tomcat 
+   - Spring Boot + hibernate 
+   - MySQL 
+   - Redis
+   - NoSQL (Data 분석용) 
+   - AngularJS (Web Front)
   - 프로젝트 관리
-  > Gradle 
-
-  > Git + GitFlow
+   - Gradle 
+   - Git + GitFlow
+   - Jenkins(CI)
+   - AWS
   
-  > Jenkins(CI)
-  
-  - AWS
   > 서비스는 모두 AWS에 올려서 사용합니다.
-  > 현재 사용 서비스는 EC2, RDS, Route53, Auto Scaling, ELB, Dynamo DB, SQS, SNS 등을 사용 혹은 도입중입니다.
+  > 현재 EC2, RDS, Route53, Auto Scaling, ELB, Dynamo DB, SQS, SNS 등을 사용 혹은 도입중입니다.
 
 위의 내용을 모두 다 사용 하실 수 있을 필요는 없습니다. 
 저희도 처음 사용하는 것들도 있으니 함께 배워가면서 하면 되지 않을까요?
